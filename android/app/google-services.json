@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "847510088475",
+    "project_id": "idc-timetracker",
+    "storage_bucket": "idc-timetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847510088475:android:110af9d2a7e25916fb01be",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847510088475-ql2d64f701cnogdpfhtm14cmbsv9s7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOn8l-0l64OqcAvdew-HC_iUy0Mz2NAB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847510088475-ql2d64f701cnogdpfhtm14cmbsv9s7j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847510088475-pd9j3naaiob6q27t79kfprho7gnl1ac3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IDC.time-tracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "e1d39d1a91cd474e27eecc1e12f07c1b68e5e7795f05734386fa3183d5985357"
+build_start_time: [1654101823, 601902961]
+build_end_time: [1654101831, 141412973]
+inputs:
+  "/Users/katielewis/Desktop/time_tracker/macos/Flutter/GeneratedPluginRegistrant.swift": [1654101727, 172387123]
+  "/Users/katielewis/Desktop/time_tracker/macos/Runner/AppDelegate.swift": [1653017493, 0]
+  "/Users/katielewis/Desktop/time_tracker/macos/Runner/MainFlutterWindow.swift": [1653017493, 0]
